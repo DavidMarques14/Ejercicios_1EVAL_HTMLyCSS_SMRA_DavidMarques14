@@ -1,0 +1,132 @@
+body{
+    background-color: lightgray;
+}
+.contenedor{
+    background-color: lightgreen;
+    position: absolute;
+    top: 5% ;
+    height: 90% ;
+    width: 75% ;
+    left: 18%;
+}
+nav{
+    background-color:rgb(56, 56, 56);
+    padding: 25px;
+    color: white;
+    font-weight: bold;
+}
+.palabras{
+    list-style-type: square;
+    display: inline;
+    margin: 70px;
+    padding: 12px; 
+    
+    
+}
+.div1{
+    background-color: white;
+    position: absolute;
+    top: 35% ;
+    height: 30% ;
+    width: 25% ;
+    left: 53%;
+    border: black 3px solid;
+    /*Etiqueta de los bordes del margen*/
+    border-radius: 1rem;
+    transform: rotate(20deg);
+}
+#fig1{
+    text-align: center;
+    font-weight: bold;
+}
+.img1{
+    position: relative;
+    width: 105% ;
+}
+.div2{
+    background-color: white;
+    position: absolute;
+    top: 30% ;
+    height: 30% ;
+    width: 25% ;
+    left: 40%;
+    border: black 3px solid;
+    /*Etiqueta de los bordes del margen*/
+    border-radius: 1rem;
+    transform: rotate(346deg);
+}
+#fig2{
+    text-align: center;
+    font-weight: bold;
+}
+.img2{
+    position: relative;
+    width: 105%;
+}
+.div3{
+    background-color: white;
+    position: absolute;
+    top: 30% ;
+    height: 30% ;
+    width: 25% ;
+    left: 30%;
+    border: black 3px solid;
+    border-radius: 1rem;
+    /* etiqueta de rotación de imagén */
+    transform: rotate(45deg);
+}
+#fig3{
+    text-align: center;
+    font-weight: bold;
+}
+.img3{
+    position: relative;
+    width: 105%;
+}
+.div4{
+    background-color: white;
+    border: black 3px solid;
+    border-radius: 1rem;
+    position: absolute;
+    top: 30% ;
+    left: 17%;
+    height: 30% ;
+    width: 25% ;
+    /* etiqueta de rotación de imagén */
+    transform: rotate(320deg);
+
+}
+#fig4{
+    text-align: center;
+    font-weight: bold;
+
+}
+.img4{
+    position: relative;
+    width: 105% ;
+    
+}
+
+.img5{
+    position: relative;
+    width: 150px;
+}
+.palabrasizq{
+    border: black 4px solid;
+    position: relative;
+    top: 30px;
+    width: 150px ;
+    height: 530px;
+    
+}
+
+ul, li{
+    list-style-type: none;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
